@@ -11,6 +11,7 @@ This repository contains my practice notebooks for learning NumPy, a Python libr
 - **Array Manipulation**: Reshaping, concatenation, and splitting.
 - **Random Numbers**: Uniform, normal, and integer arrays; shuffling.
 - **Data Analysis**: Statistics and filtering on a simulated dataset.
+- **Vectorization**: Comparing loops vs. vectorized operations and using np.where for conditional logic.
 
 ## Goals
 - Master NumPy fundamentals.
